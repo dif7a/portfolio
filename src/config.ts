@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/dif7a",
   },
   aboutMe:
-    "Dedicated to turning ideas into creative solutions with focus on activities that sharpen my craft and values that shape how I work. I describe specific hobbies that influence my design approach and the passions that steer my professional choices. Specialize in creating seamless and intuitive user experiences.By prioritizing performance, accessibility, and responsiveness, As I strive to deliver experiences that not only engage users but also drive tangible results.",
+    "Dedicated to turning ideas into creative solutions with focus on activities that sharpen my craft and values that shape how I work. I describe specific hobbies that influence my design approach and the passions that steer my professional choices. Specialize in creating seamless and intuitive user experiences.By prioritizing performance, accessibility, and responsiveness.",
   skills: ["Javascript","ES6","HTML5", "CSS3", "SASS/SCSS", "Figma", "Adobe XD","GIT/GITHUB"],
   projects: [
     {
