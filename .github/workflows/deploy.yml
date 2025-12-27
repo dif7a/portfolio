@@ -27,8 +27,8 @@ jobs:
           node-version: 24 
           package-manager: pnpm@latest 
           build-cmd: pnpm run build         
-        env:
-          PUBLIC_POKEAPI: 'https://pokeapi.co/api/v2' 
+        #env:
+          #PUBLIC_POKEAPI: 'https://pokeapi.co/api/v2' 
 
   deploy:
     needs: build
